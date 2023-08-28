@@ -6,56 +6,50 @@ body {
 
 
 header{
-background-color: blue;
-padding: 20px 0;
-}
-
-.caixa{
-    width: 940px;
-    position: absolute;
-    margin: 0 auto;
-    display:inline;
-}
-
-#logo1{
-background-color: blue;
-}
-
-nav{
-    position: relative;
-    top: 110px;
-    left: 0;
-    display:inline;
-} 
-
-nav li{
-    display: inline;
-    color: black;
-    margin: 0 0 0 15px;
-    margin-left: 0;
-    padding:20px;
-}
- 
-nav a {
-    color: black;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 23px;
-    text-decoration: none;
-}
-
-  nav a:hover{
-color: rgb(253, 0, 0);
-text-decoration: underline;
+  background-color: blue;
+  padding: 20px 0;
   }
+  
+  .caixa{
+      width: 940px;
+      position: relative;
+      margin: 0 auto;
+  }
+  
+  #logo1{
+  background-color: blue;
+  }
+  
+  nav{
+      position: absolute;
+      top: 110px;
+      right: 0;
+  } 
+  
+  nav li{
+      display: inline;
+      color: black;
+      margin: 0 0 0 15px;
+  }
+   
+  nav a {
+      color: black;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 23px;
+      text-decoration: none;
+  }
+  
+    nav a:hover{
+  color: rgb(253, 0, 0);
+  text-decoration: underline;
+    }
 
 #banner{
 
-    width: 100%;
+    width: 90%;
 
 }
-
-
 
 .titulo-principal {
   padding: 20px;
@@ -136,7 +130,17 @@ width: 50%;
     }
 
 
-
+    footer{
+      text-align: center;
+      padding: 40px 0;
+    }
+  
+    .copy {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+  
+  
 
       
       
