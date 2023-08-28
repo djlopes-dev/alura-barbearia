@@ -4,11 +4,54 @@ body {
 
 }
 
+
+header{
+background-color: blue;
+padding: 20px 0;
+}
+
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#logo1{
+background-color: blue;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+} 
+
+nav li{
+    display: inline;
+    color: black;
+    margin: 0 0 0 15px;
+}
+ 
+nav a {
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+  nav a:hover{
+color: rgb(253, 0, 0);
+text-decoration: underline;
+  }
+
 #banner{
 
     width: 100%;
 
 }
+
+
 
 .titulo-principal {
   padding: 20px;
