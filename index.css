@@ -14,6 +14,7 @@ padding: 20px 0;
     width: 940px;
     position: relative;
     margin: 0 auto;
+    display:block;
 }
 
 #logo1{
@@ -30,6 +31,7 @@ nav li{
     display: inline;
     color: black;
     margin: 0 0 0 15px;
+    margin-left: 
 }
  
 nav a {
