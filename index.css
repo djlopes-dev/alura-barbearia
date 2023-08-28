@@ -24,7 +24,7 @@ background-color: blue;
 nav{
     position: absolute;
     top: 110px;
-    right: 0;
+    left: 0;
 } 
 
 nav li{
