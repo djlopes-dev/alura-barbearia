@@ -47,7 +47,7 @@ header{
 
 #banner{
 
-    width: 90%;
+    width: 100%;
 
 }
 
@@ -130,17 +130,17 @@ width: 50%;
     }
 
 
-    footer{
-      text-align: center;
-      padding: 40px 0;
-    }
-  
-    .copy {
-        font-size: 13px;
-        margin-top: 20px;
-    }
-  
-  
+footer{
+    text-align: center;
+    padding: 40px 0;
+  }
+
+  .copy {
+      font-size: 13px;
+      margin-top: 20px;
+  }
+
+
 
       
       
